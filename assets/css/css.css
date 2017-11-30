@@ -1,3 +1,11 @@
-.navbar {
-  background: orange;
+#myNav {
+  background-color: orange;
+}
+
+.footer {
+  text: white;
+}
+
+body {
+  background: teal;
 }
