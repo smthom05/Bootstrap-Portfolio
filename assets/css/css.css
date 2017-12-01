@@ -1,11 +1,55 @@
-#myNav {
-  background-color: orange;
+* {
+  box-sizing: border-box;
+}
+body {
+  background: grey;
+}
+
+.navbar {
+  background-color: maroon;
+}
+
+.jumbotron-connect {
+  margin-bottom: 200px;
+}
+
+#header-tag {
+  color: white;
+}
+
+h1, h2, h3{
+  color: maroon;
+}
+
+hr {color: maroon !important; background-color: maroon !important; border-color: maroon !important;
+}
+
+.submit-button {
+  background: maroon;
+  color: white;
+  float: right;
+}
+
+.rounded-circle {
+  margin-top: 5%;
+}
+
+.message-box {
+  height: 200px;
+}
+
+.jumbotron-portfolio {
+  height: 900px;
+  margin-bottom: 100px;
+}
+
+.pictures {
+  height: 200px;
+  width: 50%;
 }
 
 .footer {
   text: white;
-}
-
-body {
-  background: teal;
+  background: maroon;
+  padding: 10px;
 }
