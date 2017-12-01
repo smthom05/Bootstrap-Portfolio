@@ -15,7 +15,9 @@ body {
 
 #header-tag {
   color: white;
+  margin-left: 8.5%;
 }
+
 
 h1, h2, h3{
   color: maroon;
@@ -39,13 +41,12 @@ hr {color: maroon !important; background-color: maroon !important; border-color:
 }
 
 .jumbotron-portfolio {
-  height: 900px;
   margin-bottom: 100px;
 }
 
 .pictures {
   height: 200px;
-  width: 50%;
+  width: 100%;
 }
 
 .footer {
